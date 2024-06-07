@@ -238,5 +238,16 @@
       "Appendices",
       "<span class='chapter-number'>C</span>  <span class='chapter-title'>Quorse Notes Overview Presentation</span>"
     ]
+  },
+  {
+    "objectID": "L01.html#r-code",
+    "href": "L01.html#r-code",
+    "title": "1  Lecture 1 - Regression",
+    "section": "1.2 R code",
+    "text": "1.2 R code\n\nplot(mpg ~ disp, data = mtcars)",
+    "crumbs": [
+      "Setup",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Lecture 1 - Regression</span>"
+    ]
   }
 ]

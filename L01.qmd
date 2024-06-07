@@ -6,3 +6,10 @@ title: "Lecture 1 - Regression"
 
 - This is a lecture on regression.
 - Please learn everything I say
+
+## R code
+
+```{r}
+plot(mpg ~ disp, data = mtcars)
+```
+
