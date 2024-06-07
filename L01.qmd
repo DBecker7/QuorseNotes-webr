@@ -5,3 +5,4 @@ title: "Lecture 1 - Regression"
 ## Introduction
 
 - This is a lecture on regression.
+- Please learn everything I say
